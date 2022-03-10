@@ -1,3 +1,7 @@
 Phone,30000,37
 Laptop,140000,37
 HDD,7000,13
+Washing Machine, 14000, 4
+Earbuds, 3000, 40
+PowerBank Samsung, 3000, 45
+Adapter, 400, 25
